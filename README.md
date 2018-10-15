@@ -1,3 +1,7 @@
+Client Manager was born out of a need to track expenses for contract developers. It uses Firebase as a database manager, and React with Redux on the front end. Though still in development, it features authentication and full CRUD capabilities.
+
+An early demo is available at: https://react-client-manager.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
